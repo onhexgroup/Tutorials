@@ -7,5 +7,5 @@ Slides, codes, and materials related to my courses
 - [Site](https://onhexgroup.ir/software-reverse-engineering-tutorials)
 - Videos:
   - Youtube
-    - [S1-Tools-and-Prerequisite](https://www.youtube.com/playlist?list=PLuoKBCfw80oKpVh6_f05dn-yo2MpDAs1W)
+    - [S1-Tools-and-Prerequisite (Complete) - 14 Videos - 04:34:46](https://www.youtube.com/playlist?list=PLuoKBCfw80oKpVh6_f05dn-yo2MpDAs1W)
     - [S2-Common Assembly Instructions](https://www.youtube.com/playlist?list=PLuoKBCfw80oKv0im_TMIgyayQADSlmCYc)
