@@ -1,0 +1,5 @@
+set WATCOM=C:\Users\USER\Desktop\ow_portable_v2_stable
+set PATH=%PATH%;C:\Users\USER\Desktop\ow_portable_v2_stable\binnt
+
+wasm mystub.asm -fo=mystub.obj
+wlink format dos file mystub.obj name mystub.com option quiet

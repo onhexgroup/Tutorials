@@ -1,0 +1,13 @@
+﻿  PE_Sample.cpp
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(21,10): error C2473: 'operator =': looks like a function definition, but there is no parameter list.
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(21,21): error C2146: syntax error: missing ';' before identifier 'argv'
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(25,21): error C2833: 'operator )' is not a recognized operator or type
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(25,21): error C2059: syntax error: 'newline'
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(25,23): error C2143: syntax error: missing ';' before '{'
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(26,5): error C2046: illegal case
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(29,5): error C2046: illegal case
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(32,5): error C2046: illegal case
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(35,5): error C2047: illegal default
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(28,9): error C2043: illegal break
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(31,9): error C2043: illegal break
+C:\Users\USER\source\repos\PE_Sample\PE_Sample\PE_Sample.cpp(34,9): error C2043: illegal break

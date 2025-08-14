@@ -1,0 +1,4 @@
+﻿  PE_Sample.cpp
+C:\Users\USER\Desktop\PE_2\mystub.com : warning LNK4060: stub file missing full MS-DOS header; rebuild stub with /KNOWEAS 16-bit LINK option
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/STUB' specification
+  PE_Sample.vcxproj -> C:\Users\USER\Desktop\PE_2\PE_Sample\Debug\PE_Sample.exe

@@ -1,0 +1,7 @@
+﻿  PE_Sample.cpp
+C:\MCP\2.EXE : warning LNK4060: stub file missing full MS-DOS header; rebuild stub with /KNOWEAS 16-bit LINK option
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PE_Sample.vcxproj -> C:\Users\USER\source\repos\PE_Sample\Release\PE_Sample.exe
