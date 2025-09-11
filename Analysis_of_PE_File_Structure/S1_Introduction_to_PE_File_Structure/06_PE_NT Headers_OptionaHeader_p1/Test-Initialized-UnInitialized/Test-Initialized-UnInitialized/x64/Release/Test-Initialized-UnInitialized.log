@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\Test-Initialized-UnInitialized\Test-Initialized-UnInitialized\main.cpp(21,26): warning C4305: '=': truncation from 'int' to 'unsigned char'
+C:\Users\USER\source\repos\Test-Initialized-UnInitialized\Test-Initialized-UnInitialized\main.cpp(21,26): warning C4309: '=': truncation of constant value
+C:\Users\USER\source\repos\Test-Initialized-UnInitialized\Test-Initialized-UnInitialized\main.cpp(22,26): warning C4305: '=': truncation from 'int' to 'unsigned char'
+C:\Users\USER\source\repos\Test-Initialized-UnInitialized\Test-Initialized-UnInitialized\main.cpp(22,26): warning C4309: '=': truncation of constant value
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Test-Initialized-UnInitialized.vcxproj -> C:\Users\USER\source\repos\Test-Initialized-UnInitialized\x64\Release\Test-Initialized-UnInitialized.exe
