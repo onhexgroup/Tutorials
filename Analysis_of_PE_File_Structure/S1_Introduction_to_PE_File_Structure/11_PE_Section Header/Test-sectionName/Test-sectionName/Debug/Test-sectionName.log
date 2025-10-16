@@ -1,0 +1,3 @@
+﻿  Test-sectionName.cpp
+LINK : warning LNK4039: section '.mytext' specified with /SECTION option does not exist
+  Test-sectionName.vcxproj -> C:\Users\USER\Desktop\PE-11\Test-sectionName\Debug\Test-sectionName.exe

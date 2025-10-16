@@ -1,0 +1,6 @@
+﻿  Test-sectionName.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Test-sectionName.vcxproj -> C:\Users\USER\Desktop\PE-11\Test-sectionName\Release\Test-sectionName.exe
